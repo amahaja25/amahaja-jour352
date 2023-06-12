@@ -1,1 +1,17 @@
-<html lang="en">
+h1{
+    font-family:'Open Sans';
+    color: #444;
+    font-weight: 400;
+}
+
+p {
+    font-family:'Open Sans';
+    color: #444;
+    font-weight: 400;
+}
+
+li {
+    font-family:'Open Sans';
+    color: #444;
+    font-weight: 400;
+}
