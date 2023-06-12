@@ -12,10 +12,16 @@ p {
     font-family:'Open Sans';
     color: #444;
     font-weight: 400;
+    font-size: 1em;
 }
 
 li {
     font-family:'Open Sans';
     color: #444;
     font-weight: 400;
+    font-size: 1em;
+}
+
+.title {
+
 }
