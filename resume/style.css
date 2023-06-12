@@ -65,10 +65,22 @@ ul.menu {
     margin: 0px;
     padding: 0px;
     text-align: center;
+    display: inline;
 }
 
-strong {
+#degrees {
+    margin: 5px 0px 0px;
+}
+
+#do {
+    margin: 5px 0px 0px;
+}
+
+#title {
     text-transform: uppercase;
     font-size: 1.5em;
     color: #33485e;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0px 0px;
 }
