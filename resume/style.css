@@ -5,7 +5,7 @@
 
 
 #name {
-    font-family:'Open Sans';
+    font-family:'Open Sans', arial, sans-serif;
     color: #33485e;
     font-weight: 400;
     text-align: center;
@@ -49,7 +49,7 @@ p.description {
     margin-right: 0px;
 }
 
-li {
+ul {
     font-family:'Open Sans';
     color: #444;
     font-weight: 400;
