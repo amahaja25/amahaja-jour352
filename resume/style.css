@@ -45,3 +45,8 @@ li {
     font-size: 1em;
 }
 
+strong {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color:#33485e;
+}
