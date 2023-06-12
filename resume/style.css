@@ -1,7 +1,11 @@
+<!-- styles for my resume -->
+
 h1{
     font-family:'Open Sans';
-    color: #444;
+    color: #33485e;
     font-weight: 400;
+    text-align: center;
+    font-size: 3em;
 }
 
 p {
