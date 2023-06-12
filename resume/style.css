@@ -57,11 +57,14 @@ p.description {
     margin-right: 0px;
 }
 
-ul {
+ul.menu {
     font-family:'Open Sans';
     color: #444;
     font-weight: 400;
     font-size: 1em;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
 }
 
 strong {
