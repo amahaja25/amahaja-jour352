@@ -8,7 +8,7 @@ BODY {
 #container {
     width: 100%;
     max-width: 1200px;
-    margin: "0 auto";
+    margin: 0 auto;
     padding-bottom: 50px;
 }
 
@@ -87,6 +87,13 @@ BODY {
 
 #do {
     margin: 5px 0px 0px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
 
 
