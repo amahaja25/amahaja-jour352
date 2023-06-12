@@ -1,11 +1,10 @@
-<!-- styles for my resume -->
-
-h1{
-    font-family:'Open Sans';
+h1 {
+  font-family:'Open Sans';
     color: #33485e;
     font-weight: 400;
     text-align: center;
     font-size: 3em;
+    text-transform: capitalize;
 }
 
 p {
@@ -22,6 +21,3 @@ li {
     font-size: 1em;
 }
 
-.title {
-
-}
