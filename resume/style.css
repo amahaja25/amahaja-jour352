@@ -1,3 +1,6 @@
+/* Styles for my resume */
+
+/* Font style for all body text */
 BODY {
     font-family: 'Open Sans', arial, sans-serif;
     font-size: 1em;
@@ -5,6 +8,7 @@ BODY {
     font-weight: 400;
 }
 
+/* Container div */
 #container {
     width: 100%;
     max-width: 1200px;
@@ -12,6 +16,7 @@ BODY {
     padding-bottom: 50px;
 }
 
+/* Header with name */
 #name {
    font-size: 3em;
     color: #33485e;
@@ -23,6 +28,7 @@ BODY {
     margin: 0 auto;
 }
 
+/* Title */
 #title {
     text-transform: uppercase;
     font-size: 1.5em;
@@ -32,6 +38,7 @@ BODY {
     margin: 20px 0px 0px;
 }
 
+/* Headers for each section, i.e. Experience, Education, Skills */
 .sectionheader {
     text-transform: uppercase;
     font-size: 1.5em;
@@ -43,16 +50,19 @@ BODY {
     min-width: 300px;
 }
 
+/* Title of each job experience */
 .jobtitle {
    font-weight: 600;
    font-size: 1.5em; 
 }
 
+/* Company name, changed font size*/
 .organization {
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
+/* Years worked */
 .date {
     font-weight: 400;
     font-size: 1em;
@@ -60,17 +70,15 @@ BODY {
     margin-top: 2px;
 }
 
+/* What used to be all <p> elements, now class by the name of description */
 .description {
-    font-family:'Open Sans';
-    color: #444;
-    font-weight: 400;
-    font-size: 1em;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 0px;
     margin-right: 0px;
 }
 
+/* Contact info, i.e. email, linkedin, twitter */
 .menu {
     font-weight: 400;
     font-size: 1em;
@@ -79,19 +87,22 @@ BODY {
     text-align: center;
 }
 
+/* made the list horizontal instead of stacked */
 .menu li {
     display: inline;
-    list-style-type: none;
 }
 
+/* Education List */
 #degrees {
     margin: 5px 0px 0px;
 }
 
+/* Skills list */
 #do {
     margin: 5px 0px 0px;
 }
 
+/* for mission statement*/
 .top {
     width: 60%;
     min-width: 300px;
