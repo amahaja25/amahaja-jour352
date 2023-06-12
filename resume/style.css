@@ -5,7 +5,12 @@ BODY {
     font-weight: 400;
 }
 
-
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: "0 auto";
+    padding-bottom: 50px;
+}
 
 #name {
    font-size: 3em;
@@ -19,7 +24,7 @@ BODY {
     margin: center;
 }
 
-div.sectionheader {
+.sectionheader {
     text-transform: uppercase;
     font-size: 1.5em;
     background-color: #33485e;
@@ -30,7 +35,7 @@ div.sectionheader {
     min-width: 300px;
 }
 
-div.jobtitle {
+.jobtitle {
    font-weight: 600;
    font-size: 1.5em; 
 }
@@ -40,7 +45,7 @@ div.organization {
     font-size: 1.5em;
 }
 
-div.date {
+.date {
     font-weight: 400;
     font-size: 1em;
     font-style: italic;
@@ -57,13 +62,14 @@ p.description {
     margin-right: 0px;
 }
 
-ul.menu {
+.menu {
     font-weight: 400;
     font-size: 1em;
     margin: 0px;
     padding: 0px;
     text-align: center;
     display: inline;
+    list-style-type: none;
 }
 
 #degrees {
@@ -82,3 +88,4 @@ ul.menu {
     text-align: center;
     margin: 20px 0px 0px;
 }
+
