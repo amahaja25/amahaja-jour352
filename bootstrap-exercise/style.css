@@ -2,11 +2,18 @@
     text-align: center;
 }
  
- h1, h2, h3, .navbar-brand .btn.btndark {
-   font-family: 'Special Elite', sans-serif;
+title, h1, h2, h3, .navbar-brand .btn.btndark {
+   font-family: 'Special Elite';
 }
         
-  
+.col-md-4 {
+    text-align: center;
+}
+
+.col-md-6 {
+    text-align: center;
+}
+
 .bi {
     font-size:3em;
 }
