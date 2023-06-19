@@ -1,5 +1,5 @@
 
-title, h1, h2, h3, .navbar-brand .btn  {
+title, h2, h3, .navbar-brand .btn  {
    font-family: 'Special Elite', cursive;
 }
         
@@ -16,7 +16,7 @@ title, h1, h2, h3, .navbar-brand .btn  {
 }
 
 .col-md-6 .btn.btn-dark {
-    margin-top: 20px;
+    padding-top: 20px;
 }
 
 .col-md-4 {
