@@ -1,37 +1,48 @@
-
+.container {
+    text-align: center;
+}
+ 
  h1 {
    font-family: 'Open Sans', sans-serif;
- }
+}
         
-  h2 {
+h2 {
     font-family: 'Open Sans', sans-serif;
-   }
+}
         
-   h3 {
+h3 {
      font-family: 'Open Sans', sans-serif;
-   }
+}
         
-  .navbar-brand {
-    font-family: 'Open Sans', sans-serif;
+.navbar-brand {
+    font-family: 'Special Elite';
   }
         
- .btn {
-   font-family: 'Open Sans', sans-serif;
- }
+.btn {
+   font-family: 'Special Elite';
+}
         
-  .bi {
+.bi-chat-square-dots {
     font-size:3em;
-  }
-        
- .col-md-4 {
+}
+
+.bi-book {
+    font-size:3em;
+}
+
+.bi-heart {
+    font-size:3em;
+}
+
+.col-md-4 {
    text-align: center;
-  }
+}
         
  .row {
     padding-bottom: 50px;
-   }
+}
         
  @media only screen and (max-width: 500px) {
-   h2 {padding-top: 50px;}
-   .btn {background-color: teal;}
-        }
+     h2 {padding-top: 50px;}
+     .btn {background-color: teal;}
+}
