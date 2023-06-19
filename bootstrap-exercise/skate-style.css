@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+}
+ 
+ h1 {
+   font-family: 'Open Sans', sans-serif;
+}
+        
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+        
+h3 {
+     font-family: 'Open Sans', sans-serif;
+}
+        
+.navbar-brand {
+    font-family: 'Special Elite';
+  }
+        
+.btn {
+   font-family: 'Special Elite';
+}
+        
+.bi-chat-square-dots {
+    font-size:3em;
+}
+
+.bi-book {
+    font-size:3em;
+}
+
+.bi-heart {
+    font-size:3em;
+}
+
+.col-md-4 {
+   text-align: center;
+}
+        
+ .row {
+    padding-bottom: 50px;
+}
+        
+
+ 
