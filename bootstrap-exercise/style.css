@@ -15,6 +15,9 @@ title, h1, h2, h3, .navbar-brand .btn  {
     font-size:3em;
 }
 
+.col-md-6 .btn.btn-dark {
+    margin-top: 20px;
+}
 
 .col-md-4 {
    text-align: center;
