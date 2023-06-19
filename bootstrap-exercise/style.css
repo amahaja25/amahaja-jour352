@@ -1,9 +1,6 @@
-.container {
-    text-align: center;
-}
- 
-title, h1, h2, h3, .navbar-brand .btn.btndark {
-   font-family: 'Special Elite';
+
+title, h1, h2, h3, .navbar-brand .btn  {
+   font-family: 'Special Elite', cursive;
 }
         
 .col-md-4 {
