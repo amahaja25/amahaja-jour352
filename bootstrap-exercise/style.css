@@ -1,0 +1,37 @@
+
+ h1 {
+   font-family: 'Open Sans', sans-serif;
+ }
+        
+  h2 {
+    font-family: 'Open Sans', sans-serif;
+   }
+        
+   h3 {
+     font-family: 'Open Sans', sans-serif;
+   }
+        
+  .navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+  }
+        
+ .btn {
+   font-family: 'Open Sans', sans-serif;
+ }
+        
+  .bi {
+    font-size:3em;
+  }
+        
+ .col-md-4 {
+   text-align: center;
+  }
+        
+ .row {
+    padding-bottom: 50px;
+   }
+        
+ @media only screen and (max-width: 500px) {
+   h2 {padding-top: 50px;}
+   .btn {background-color: teal;}
+        }
