@@ -2,37 +2,15 @@
     text-align: center;
 }
  
- h1 {
-   font-family: 'Open Sans', sans-serif;
+ h1, h2, h3, .navbar-brand .btn.btndark {
+   font-family: 'Special Elite', sans-serif;
 }
         
-h2 {
-    font-family: 'Open Sans', sans-serif;
-}
-        
-h3 {
-     font-family: 'Open Sans', sans-serif;
-}
-        
-.navbar-brand {
-    font-family: 'Special Elite';
-  }
-        
-.btn {
-   font-family: 'Special Elite';
-}
-        
-.bi-chat-square-dots {
+  
+.bi {
     font-size:3em;
 }
 
-.bi-book {
-    font-size:3em;
-}
-
-.bi-heart {
-    font-size:3em;
-}
 
 .col-md-4 {
    text-align: center;
