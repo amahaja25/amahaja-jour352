@@ -19,8 +19,13 @@ h1 {
     font-style: italic;
     }
 
+#readmore {
+    font-family:'Helvetica', sans-serif;
+    font-size: 40px;
+}
+
 blockquote {
-    font: 16px/24px normal helvetica, sans-serif;
+    font: 32px normal helvetica, sans-serif;
     font-style: italic;
     margin-top: 15px;
     margin-bottom: 15px;
