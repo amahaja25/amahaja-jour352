@@ -28,9 +28,9 @@ h1 {
     text-align: center;
     }
 
-h2 {
-    font-family:'Helvetica', sans-serif;
-    font-size: 20px;
+#readmore {
+    font-family: normal Helvetica, sans-serif;
+    font-size: 24px;
 }
 
 blockquote {
