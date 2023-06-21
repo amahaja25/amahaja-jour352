@@ -4,9 +4,10 @@
 }
 
 #dek {
-    font-family: 'Georgia', serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 13px;
     text-align: center;
+    font-style: italic;
 }
 
 p {
