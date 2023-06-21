@@ -10,7 +10,7 @@ p {
 
 h1 {
     font-family: 'Helvetica', sans-serif;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 #byline {
@@ -32,6 +32,6 @@ blockquote {
 
 img {
     margin: auto;
-    width: 40%;
+    width: 60%;
     display: block;
 }
