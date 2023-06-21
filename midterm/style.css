@@ -15,7 +15,16 @@ p {
     font-style: italic;
 }
 
-
+blockquote {
+    font: 32px 'EB Garamond', serif;
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: darkred;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 4px solid #ccc;
+}
 
 h1 {
     font-family: 'EB Garamond', serif;
