@@ -35,3 +35,10 @@ img {
     width: 60%;
     display: block;
 }
+
+.caption {
+    font-family: 'Helvetica', sans-serif;
+    color: gray;
+    font-size: 12px;
+    font-style: italic;
+}
