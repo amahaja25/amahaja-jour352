@@ -1,12 +1,15 @@
+/* <p> style (for main story text) */
 p {
     font: 16px "Helvetica", "Arial", sans-serif;
 }
 
+/* center all content on the page */
 #content {
     margin: 0 auto;
     width: 900px;
 }
 
+/* hed, dek, byline styles */
 #byline {
     font: 18px 'Poppins', sans-serif;
     text-align:center;
@@ -18,10 +21,14 @@ p {
     text-align:center;
 }
 
+#headline {
+    font: 65px 'EB Garamond', serif;
+    text-align: center;
+}
 
+/* Center text for related items and links, styles for links */
 #relateditems {
     margin-top: 20px;
-    font: 40px 'EB Garamond', serif;
     text-align: center;
 }
 
@@ -31,6 +38,7 @@ p {
     padding-bottom: 50px;
 }
 
+/* Blockquotes, made them blue and made font bigger */
 blockquote {
     font: 32px 'EB Garamond', serif;
     font-style: italic;
@@ -42,15 +50,12 @@ blockquote {
     border-left: 4px solid #ccc;
 }
 
-#headline {
-    font: 65px 'EB Garamond', serif;
-    text-align: center;
-}
-
-.subhead {
+/* Subheadings and related items font */
+.subhead, #relateditems {
     font: 40px 'EB Garamond', serif;
 }
 
+/* Styles for captions and credits */
 .caption {
     font-style: italic;
     color: black;
