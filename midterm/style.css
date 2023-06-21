@@ -1,11 +1,10 @@
 p{
-
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 14px;
 }
 
 #content {
-
+    margin: 0 auto;
+    width: 900px;
 }
 
-.subhead{
-
-}
