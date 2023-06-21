@@ -39,4 +39,6 @@ h1 {
 .caption {
     font-style: italic;
     color: #333333;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
 }
