@@ -11,14 +11,12 @@ p {
 h1 {
     font-family: 'Helvetica', sans-serif;
     font-size: 40px;
-    text-align: center;
 }
 
 #byline {
     font-family: 'Helvetica', sans-serif;
     font-size: 14px;
     font-style: italic;
-    text-align: center;
     }
 
 #readmore {
@@ -42,5 +40,5 @@ blockquote {
     color: gray;
     font-size: 12px;
     font-style: italic;
-    padding-top: 5px;
+    padding-top: 8px;
 }
