@@ -4,16 +4,16 @@
 }
 
 p {
-    font-family: Georgia, serif;
+    font-family: 'Georgia', serif;
     font-size: 13px;
 }
 
 h1 {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica', sans-serif;
 }
 
 #byline {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 14px;
     font-style: italic;
     }
