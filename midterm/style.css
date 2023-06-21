@@ -17,3 +17,7 @@ h1 {
     font-family: 'EB Garamond', serif;
     font-size: 30px;
 }
+
+.caption {
+    font-style: italic;
+}
