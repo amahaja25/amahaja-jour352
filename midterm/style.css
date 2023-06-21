@@ -8,6 +8,14 @@ p {
     width: 900px;
 }
 
+#byline {
+    text-transform: uppercase;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+
+
+
 h1 {
     font-family: 'EB Garamond', serif;
     font-size: 50px;
@@ -20,4 +28,5 @@ h1 {
 
 .caption {
     font-style: italic;
+    color: #333333;
 }
