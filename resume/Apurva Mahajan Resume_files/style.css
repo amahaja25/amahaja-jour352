@@ -126,10 +126,16 @@ BODY {
     margin-bottom: 30px;
 }
 
-button {
+.btn, .btn-outline-warning, .btn-lg, .btn-lg, .px-4 {
     font-family: 'Josefin Sans', sans-serif;
 
 }
 
 
 
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
