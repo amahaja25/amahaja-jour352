@@ -1,8 +1,10 @@
 /* Styles for my resume */
 
+
+
 #content {
     margin: 0 auto;
-    width: 1000px;
+    width: 100%;
 }
 
 .navbar {
@@ -10,21 +12,30 @@
 }
 
 
+footer {
+    text-align: center;
+    font:20px 'Nanum Myeongjo', serif;
+    color:#FFC008;
+
+}
+
+
+h1 {
+    text-transform: uppercase;
+    color: black;
+    text-align:center;
+    font:32px 'Josefin Sans', sans-serif;
+}
+
 .text-center {
     background-color: #0C033E;
 }
 
 .navbar-brand, .nav-link {
-    font:40px 'Nanum Myeongjo', serif;
+    font:20px 'Nanum Myeongjo', serif;
 
 }
 
-
-#content {
-    margin: 0 auto;
-    width: 1000px;
-
-}
 
 .display-5, .lead, .mb-4 {
     font: 'Josefin Sans', sans-serif;
@@ -32,35 +43,8 @@
     color:#FFC008;
 }
 
-/* Font style for all body text */
-BODY {
-    font-family: 'Open Sans', arial, sans-serif;
-    font-size: 1em;
-    color: #444;
-    font-weight: 400;
-}
-
-/* Container div */
-#container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding-bottom: 50px;
-}
 
 
-
-
-/* Headers for each section, i.e. Experience, Education, Skills */
-.sectionheader {
-    text-transform: uppercase;
-    color: black;
-    margin: 0 auto;
-    width: 100%;
-    text-align:center;
-    font:32px 'Josefin Sans', sans-serif;
-
-}
 
 /* Title of each job experience */
 .jobtitle {
@@ -84,30 +68,6 @@ BODY {
 
 
 
-
-
-/* What used to be all <p> elements, now class by the name of description */
-.description {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
-}
-
-/* Contact info, i.e. email, linkedin, twitter */
-.menu {
-    font-weight: 400;
-    font-size: 1em;
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-}
-
-/* made the list horizontal instead of stacked */
-.menu li {
-    display: inline;
-}
-
 /* Education List */
 #degrees {
     margin: 5px 0px 0px;
@@ -118,13 +78,6 @@ BODY {
     margin: 5px 0px 0px;
 }
 
-/* for mission statement*/
-.top {
-    width: 60%;
-    min-width: 300px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-}
 
 button {
     font-family: 'Josefin Sans', sans-serif;
