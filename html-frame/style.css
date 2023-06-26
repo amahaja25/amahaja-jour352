@@ -1,6 +1,7 @@
 #headline {
     text-align: center;
-    font-size: 50px;
+    font: 50px 'Times New Roman', serif;
+
 }
 
 #byline {
