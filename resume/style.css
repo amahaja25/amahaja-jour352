@@ -18,6 +18,7 @@ footer {
 }
 
 
+
 h1 {
     text-transform: uppercase;
     color: black;
@@ -62,7 +63,7 @@ h1 {
     margin-top: 2px;
 }
 
-button {
+.btn {
     font-family: 'Josefin Sans', sans-serif;
 }
 
