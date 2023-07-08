@@ -4,6 +4,14 @@
     }
 }
 
+.nav-link {
+    font: 1.5em 'Ysabeau SC', sans-serif;
+}
+
+.d-flex {
+    font-family:'Ysabeau SC', sans-serif;
+    text-transform: uppercase;
+}
 
 iframe {
     margin-top: 7px;
